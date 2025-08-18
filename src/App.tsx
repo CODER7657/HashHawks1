@@ -414,7 +414,7 @@ function App() {
                 education: ['BTech CSE(AIML) at NEW LJIET'],
                 skills: ['React.js', 'ethers.js', 'Blockchain', 'Team Leadership', 'AI/ML'],
                 bio: 'AI/ML enthusiast exploring the intersection of artificial intelligence and decentralized technologies. Expert in building DApp frontends with React.js.',
-                portfolio: 'https://myselfayush.vercel.app/',
+                portfolio: 'myselfayush.vercel.app',
                 linkedin: 'https://www.linkedin.com/in/ayush-bawaskar-254322340/',
                 hasPortfolio: true
               },
